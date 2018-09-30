@@ -25,5 +25,5 @@ int main(int argc, char const *argv[]){
         printf("%d ", newBinaries[k]);
     }
 
-    return 0;
+    return EXIT_SUCCESS;
 }
